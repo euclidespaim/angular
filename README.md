@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# O que aprendemos: 
+
+- Instalar e utilizar o Angular CLI;
+- Criar uma aplicação Angular do zero;
+- Utilizar o próprio CLI para levantar um servidor de desenvolvimento;
+- Como é organizada uma aplicação Angular;
+- Criar e utilizar um componente Angular.
+ 
