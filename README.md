@@ -43,3 +43,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - Utilizar o metadata @Input() para receber valores em um componente;
 - Exibir uma lista de dados através da diretiva *ngFor;
 - Configurar o formato de horas na aplicação.
+- Utilizar a diretiva *ngIf;
+- Trabalhar com Service
