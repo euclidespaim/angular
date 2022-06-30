@@ -37,4 +37,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - Escutar o evento de submit do formulário através de event binding;
 - A diferença do Two-way data binding para property binding;
 - Capturar as informações de um formulário.
- 
+- Utilizar o metadata @Output() para criar um evento para o seu componente.
+- Emitir eventos dentro do seu componente.
+- Utilizar o event binding para capturar o evento propagando pelo componente.
