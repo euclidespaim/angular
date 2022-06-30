@@ -45,3 +45,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - Configurar o formato de horas na aplicação.
 - Utilizar a diretiva *ngIf;
 - Trabalhar com Service
+- Como construir um mock de uma API REST com o json-server;
+- Importar e utilizar o módulo HttpClient;
+- Como enviar os dados de um formulário para a API;
+- Como exibir em tela os dados obtidos de uma API.
