@@ -40,3 +40,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - Utilizar o metadata @Output() para criar um evento para o seu componente.
 - Emitir eventos dentro do seu componente.
 - Utilizar o event binding para capturar o evento propagando pelo componente.
+- Utilizar o metadata @Input() para receber valores em um componente;
+- Exibir uma lista de dados através da diretiva *ngFor;
+- Configurar o formato de horas na aplicação.

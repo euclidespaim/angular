@@ -1,5 +1,4 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-
 import { ExtratoComponent } from './extrato.component';
 
 describe('ExtratoComponent', () => {
