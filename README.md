@@ -49,3 +49,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 - Importar e utilizar o módulo HttpClient;
 - Como enviar os dados de um formulário para a API;
 - Como exibir em tela os dados obtidos de uma API.
+- Importar e utilizar o módulo RouterModule;
+- Adicionar rotas aos componentes transformando-os em páginas;
+- Utilizar o RouterLink para melhorar a usabilidade de nossa aplicação.
